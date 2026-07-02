@@ -1,4 +1,4 @@
 # MyFirstGitRepo
-<I>My name is satyender</I>
+My name is satyender Chaurasiya
 <br>
-<B>I am a QA Engineer
+I am a QA Engineer
